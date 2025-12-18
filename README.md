@@ -57,7 +57,7 @@ You can run the following script to generate queries for the experiments:
 
 ## Reproducing Results
 
-### Experiments in Figure 4, 6, and 7
+### Experiments in Figure 4, 6, 7 and 8
 
 #### 1. Building a DiskANN index
 
